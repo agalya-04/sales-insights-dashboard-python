@@ -19,5 +19,4 @@ To perform data cleaning, exploratory data analysis (EDA), and generate visual i
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run `sales_analysis.ipynb` in Jupyter
 
-## Author:
-👩‍💻 Agalya
+
